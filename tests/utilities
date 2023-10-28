@@ -1,0 +1,11 @@
+2023-10-11 10:17:08,314 : INFO : test_forSubmission : First name is Munnish: 
+2023-10-11 10:17:08,926 : INFO : test_forSubmission : First name is Melina: 
+2023-10-11 10:17:08,926 : INFO : test_forSubmission : First name is Melina: 
+2023-10-11 10:17:12,467 : INFO : test_e2e : Getting all card titles: 
+2023-10-11 10:17:13,285 : INFO : test_e2e : iphone X: 
+2023-10-11 10:17:13,296 : INFO : test_e2e : Samsung Note 8: 
+2023-10-11 10:17:13,306 : INFO : test_e2e : Nokia Edge: 
+2023-10-11 10:17:13,318 : INFO : test_e2e : Blackberry: 
+2023-10-11 10:17:13,458 : INFO : test_e2e : Entering country name as Ind: 
+2023-10-11 10:17:18,938 : INFO : test_e2e : Text receiced from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).: 
