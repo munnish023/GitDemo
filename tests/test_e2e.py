@@ -24,7 +24,7 @@ class TestOne(BaseClass):
         for phone in phones:
             phone_title = phone.find_element(By.XPATH, "div/h4/a").text
             log.info(phone_title)
-            if phone_title == "Blackberry":
+            if phone_title == "Nokia Edge":
                 checkOut.phonePage().click()
 
         checkOut.getCheckOutBtn().click()
