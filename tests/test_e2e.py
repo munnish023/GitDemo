@@ -27,6 +27,8 @@ class TestOne(BaseClass):
             if phone_title == "Nokia Edge":
                 checkOut.phonePage().click()
 
+        #Blackberry has been changed to Nokia Edge
+
         checkOut.getCheckOutBtn().click()
 
         checkOut.getSuccessBtn().click()
