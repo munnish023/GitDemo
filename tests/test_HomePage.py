@@ -28,7 +28,9 @@ class TestHomePage(BaseClass):
         print(getData["firstname"],getData["lastname"],getData["gender"])
         self.driver.refresh()
 
-
     @pytest.fixture(params=HomePageData.test_homepage_data)
     def getData(self, request):
         return request.param
+
+
+print("This is a print")
