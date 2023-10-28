@@ -28,6 +28,7 @@ class TestOne(BaseClass):
                 checkOut.phonePage().click()
 
         #Blackberry has been changed to Nokia Edge
+        #This is another comment
 
         checkOut.getCheckOutBtn().click()
 
