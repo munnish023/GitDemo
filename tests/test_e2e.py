@@ -48,3 +48,5 @@ class TestOne(BaseClass):
         log.info("Text received from application is "+ msg)
 
         assert "Success!" in msg
+
+        log.info(msg)
